@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-public class ServletTest extends HttpServlet {
+public class    ServletTest extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
